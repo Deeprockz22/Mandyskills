@@ -1,17 +1,17 @@
 ---
-name: ims135-data-driven-mechanics
+name: machine-learning-skill
 description: >-
-  Expert guide, workflows, templates, and exam solutions for Chalmers course
-  IMS135 (Machine Learning and Data-Driven Modelling in Mechanics).
+  Expert guide, workflows, templates, and exam solutions for Machine Learning and
+  Data-Driven Modelling in Mechanics (Chalmers IMS135).
   Trigger whenever working on Physics-Informed Neural Networks (PINNs),
   Singular Value Decomposition (SVD) Model Reduction (ROM), polynomial
   curve fitting, K-fold cross-validation, nonlinear optimization (L-BFGS, SGD, Adam),
   SINDy (Sparse Identification of Nonlinear Dynamics), or Chalmers IMS135 exam problems.
 ---
 
-# IMS135: Data-Driven Mechanics & Machine Learning
+# Machine Learning Skill (Data-Driven Mechanics)
 
-This skill encapsulates the complete methodology, theoretical principles, PyTorch/NumPy templates, and past exam patterns for **Chalmers IMS135 (Machine Learning and Data-Driven Modelling in Mechanics)**, examined by Professor Magnus Ekh.
+This skill encapsulates the complete methodology, theoretical principles, PyTorch/NumPy templates, and past exam patterns for **Machine Learning and Data-Driven Modelling in Mechanics (Chalmers IMS135)**, examined by Professor Magnus Ekh.
 
 ---
 

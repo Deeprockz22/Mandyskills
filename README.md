@@ -6,7 +6,7 @@ A curated collection of specialized AI Agent Skills for engineering, mechanics, 
 
 ## Included Skills
 
-### 1. `ims135-data-driven-mechanics`
+### 1. `machine-learning-skill`
 Expert workflows, mathematical formulations, and PyTorch/NumPy templates for **Machine Learning and Data-Driven Modelling in Mechanics** (based on Chalmers course IMS135).
 
 - **Physics-Informed Neural Networks (PINNs):** Forward PDEs (elastic bar, heat equation, beam bending), Inverse parameter discovery (unknown thermal conductivity, axial stiffness), and custom boundary condition penalty weighting.
@@ -15,7 +15,7 @@ Expert workflows, mathematical formulations, and PyTorch/NumPy templates for **M
 - **Optimization Algorithms:** Comparative dynamics of SGD vs. Adam vs. L-BFGS, learning rate sensitivity, and custom momentum implementations.
 - **SINDy:** Sparse identification of nonlinear dynamics via candidate feature libraries and thresholded regression.
 
-📁 **Location:** [`skills/ims135-data-driven-mechanics/`](./skills/ims135-data-driven-mechanics/)
+📁 **Location:** [`skills/machine-learning-skill/`](./skills/machine-learning-skill/)
 
 ---
 
